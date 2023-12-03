@@ -4,7 +4,7 @@ Scarlet RPG is a Discord Bot with the goal of being a text based RPG.
 
 ## Content Table
 * [Technologies](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#technologies)
-* [Getting Started]
+* [Getting Started](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#getting-started)
 
 ## Technologies
 To make this bot we are using the technologies below:
