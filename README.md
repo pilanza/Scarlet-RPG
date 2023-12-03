@@ -10,7 +10,7 @@ To make this bot we are using the technologies below:
 * [Node.js](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#nodejs)
 * [Discord.js](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#discordjs)
 * [Composer](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#composer)
-* [Laravel]
+* [Laravel](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#laravel)
 
 #### Node.js
 Node.js will be used to make almost everything besides the database.  
@@ -19,13 +19,14 @@ Version: 20.10.0
 
 #### Discord.js
 Discord.js will be used to make all integration with discord.  
-Can be downloaded using ```npm install discord.js```  
 The documentation can be found at: https://discord.js.org/docs/packages/discord.js/14.14.1  
 Version: 14.14.1
 
 #### Composer
-Composer will be used to manage php dependencies  
-Can be downloaded at: https://getcomposer.org/download/
+Composer will be used to manage php dependencies.  
+Can be downloaded at: https://getcomposer.org/download/  
+Version: 2.5.8
 
 #### Laravel
-Laravel will be used to make the database
+Laravel will be used to make the database.  
+The documentation can be found at: https://laravel.com/docs/10.x/installation  
