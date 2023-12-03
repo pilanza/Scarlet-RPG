@@ -1,2 +1,7 @@
 # Scarlet-RPG
-That's a discord bot of text base rpg.
+Scarlet RPG is a Discord Bot with the goal of being a text based RPG.
+
+### Content Table
+
+
+#### 🚧 Under Construction 🚧 
