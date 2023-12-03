@@ -4,8 +4,9 @@ Scarlet RPG is a Discord Bot with the goal of being a text based RPG.
 
 ## Content Table
 * [Technologies](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#technologies)
+* [Getting Started]
 
-### Technologies
+## Technologies
 To make this bot we are using the technologies below:
 * [Node.js](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#nodejs)
 * [Discord.js](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#discordjs)
@@ -30,3 +31,8 @@ Version: 2.5.8
 #### Laravel
 Laravel will be used to make the database.  
 The documentation can be found at: https://laravel.com/docs/10.x/installation  
+
+## Getting Started
+To get started, first you need to get your application token.  
+To do that, first go to https://discord.com/developers/applications  
+Create a new application, then go to "Bot" and lastly get your token. This token will be used to connect the code with your bot.  
