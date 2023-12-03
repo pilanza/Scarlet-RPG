@@ -36,3 +36,5 @@ The documentation can be found at: https://laravel.com/docs/10.x/installation
 To get started, first you need to get your application token.  
 To do that, first go to https://discord.com/developers/applications  
 Create a new application, then go to "Bot" and lastly get your token. This token will be used to connect the code with your bot.  
+Then clone this repository using ```git clone https://github.com/P3terD/Scarlet-RPG```
+after cloning, use ```node install```, then ```composer update```.
