@@ -9,7 +9,8 @@ Scarlet RPG is a Discord Bot with the goal of being a text based RPG.
 To make this bot we are using the technologies below:
 * [Node.js](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#nodejs)
 * [Discord.js](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#discordjs)
-* [Composer]
+* [Composer](https://github.com/P3terD/Scarlet-RPG/blob/main/README.md#composer)
+* [Laravel]
 
 #### Node.js
 Node.js will be used to make almost everything besides the database.  
