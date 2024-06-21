@@ -2,26 +2,23 @@
 
 namespace App\Http\Controllers;
 
-use App\Models\player;
-use App\Http\Requests\StoreplayerRequest;
-use App\Http\Requests\UpdateplayerRequest;
+use App\Http\Requests\StorePlayerRequest;
+use App\Http\Requests\UpdatePlayerRequest;
+use App\Models\Player;
+use Illuminate\Http\Request;
 
 class PlayerController extends Controller
 {
-    /**
-     * Display a listing of the resource.
-     */
-    public function index()
+    private Player $player;
+
+    public function __construct(Player $player)
     {
-        //
+        $this->player = $player;
     }
 
-    /**
-     * Show the form for creating a new resource.
-     */
-    public function create()
+    public function index(Request $request)
     {
-        //
+
     }
 
     /**

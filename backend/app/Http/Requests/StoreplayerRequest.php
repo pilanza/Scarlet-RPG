@@ -4,14 +4,14 @@ namespace App\Http\Requests;
 
 use Illuminate\Foundation\Http\FormRequest;
 
-class StoreplayerRequest extends FormRequest
+class StorePlayerRequest extends FormRequest
 {
     /**
      * Determine if the user is authorized to make this request.
      */
     public function authorize(): bool
     {
-        return false;
+        return true;
     }
 
     /**
@@ -22,7 +22,16 @@ class StoreplayerRequest extends FormRequest
     public function rules(): array
     {
         return [
-            //
+            'bank_coins' => 'sometimes',
+            'coins' => 'required',
+            'level' => 'required',
+            'xp' => 'required',
+            'role' => 'required',
+            'area' => 'required',
+            'loyalty_rank' => 'sometimes',
+            'weapon' => 'sometimes',
+            'armor' => 'sometimes',
+            'blessing' => 'sometimes',
         ];
     }
 }
