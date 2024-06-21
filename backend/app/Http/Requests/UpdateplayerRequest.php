@@ -22,7 +22,16 @@ class UpdatePlayerRequest extends FormRequest
     public function rules(): array
     {
         return [
-            //
+            'bank_coins' => 'sometimes',
+            'coins' => 'sometimes',
+            'level' => 'sometimes',
+            'xp' => 'sometimes',
+            'role' => 'sometimes',
+            'area' => 'sometimes',
+            'loyalty_rank' => 'sometimes',
+            'weapon' => 'sometimes',
+            'armor' => 'sometimes',
+            'blessing' => 'sometimes',
         ];
     }
 }
